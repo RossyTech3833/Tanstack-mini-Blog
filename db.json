@@ -1,0 +1,109 @@
+{
+  "posts": [
+    {
+      "title": "Working with Tanstack",
+      "body": "Tanstack is a good one when it comes to fetching and updating your data ,using the useQuery and mutation",
+      "id": "vbGIC9WQJ20"
+    },
+    {
+      "title": "another lorem post",
+      "body": "lorem.. ifhs vkodsfsb fgdfu kerutg wigb ff wiur wjgwif kwegiwe bjwgri wnvv prut sbvirt l5ourend krtiweb keryiwekb ekrityrw krhehikr ktgwi ;eritr bkkdfhgi rjgwurir rtkeorghoe ",
+      "id": "6xSzNL9MRMs"
+    },
+    {
+      "title": "lorem",
+      "body": "lorem.. ifhs vkodsfsb fgdfu kerutg wigb ff wiur wjgwif kwegiwe bjwgri wnvv prut sbvirt l5ourend krtiweb keryiwekb ekrityrw krhehikr ktgwi ;eritr bkkdfhgi rjgwurir rtkeorghoe",
+      "id": "X25ce2A91Og"
+    }
+  ],
+  "likes": [
+    {
+      "id": "1",
+      "userid": 1,
+      "postid": "1"
+    },
+    {
+      "id": "2",
+      "userid": 2,
+      "postid": "1"
+    },
+    {
+      "userid": 1,
+      "postid": "2",
+      "id": "B33btt0MUc8"
+    },
+    {
+      "userid": 1,
+      "postid": "2",
+      "id": "HQRVxak9Fto"
+    },
+    {
+      "userid": 1,
+      "postid": "2",
+      "id": "xhEOgn8skYA"
+    },
+    {
+      "userid": 1,
+      "postid": "6xSzNL9MRMs",
+      "id": "E5h5LhXCSuM"
+    },
+    {
+      "userid": 1,
+      "postid": "vbGIC9WQJ20",
+      "id": "7ya9f8e6O9Q"
+    },
+    {
+      "userid": 1,
+      "postid": "GPUfjHOz-Ps",
+      "id": "aiRLao0yeqk"
+    },
+    {
+      "userid": 1,
+      "postid": "whYVEOyKxzQ",
+      "id": "OSJ7xSlJl_c"
+    },
+    {
+      "userid": 1,
+      "postid": "30wN1r99zOo",
+      "id": "fwOHdqF2v04"
+    }
+  ],
+  "feedback": [
+    {
+      "id": "1",
+      "postid": "1",
+      "body": "nice one"
+    },
+    {
+      "body": "nice one",
+      "postid": "6xSzNL9MRMs",
+      "id": "2xgmw-M4NLY"
+    },
+    {
+      "body": "wow,interesting",
+      "postid": "vbGIC9WQJ20",
+      "id": "I85qZLGGL2A"
+    },
+    {
+      "body": "keep it up",
+      "postid": "vbGIC9WQJ20",
+      "id": "l-65uD03JaI"
+    },
+    {
+      "body": "i love this",
+      "postid": "X25ce2A91Og",
+      "id": "cCsrNvn95ak"
+    },
+    {
+      "body": "i am happy with this",
+      "postid": "6xSzNL9MRMs",
+      "id": "EO-7jxAsJZg"
+    },
+    {
+      "body": "welldon work",
+      "postid": "30wN1r99zOo",
+      "id": "P5O3ZE7XqlU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
